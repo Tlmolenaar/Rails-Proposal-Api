@@ -1,0 +1,2 @@
+class ProposalApp < ApplicationRecord
+end
